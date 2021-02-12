@@ -1,18 +1,28 @@
 {
+    "markdownlint.config": {
+        "MD036": false
+    },
     "cSpell.language": "en,uk,ru",
     "cSpell.words": [
         "Pavlo",
         "Tarasiuk",
         "dsbtu",
-        "субліцензування"
+        "дсбту",
+        "субліцензування",
+        "єутр"
     ],
     "cSpell.ignoreWords": [
         "aiohttp",
         "fname",
         "inlinehilite",
+        "materialx",
         "mkdocs",
+        "mkdocstrings",
+        "name",
         "pymdownx",
         "pytest",
-        "sdist"
+        "python",
+        "sdist",
+        "twemoji"
     ],
 }
